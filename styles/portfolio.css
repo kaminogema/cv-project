@@ -74,8 +74,14 @@ img {
         font-size: 44px;
         line-height: 1.5;
     }
+    .hero h1 {
+        font-size: 44px;
+    }
     h2 {
         font-size: 44px;
+    }
+    .hero h2 {
+        font-size: 20px;
     }
     .hero {
         padding: 80px 20px;
