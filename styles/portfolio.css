@@ -121,3 +121,12 @@ img {
     background-color: var(--secondary-color);
     padding: 30px;
 }
+.about-section-content-v2 li {
+    font-size: 15px;
+}
+.about-section-content-v2 h3 {
+    margin: 15px;
+}
+.about-section-content-v2 p {
+    margin: 0;
+}
