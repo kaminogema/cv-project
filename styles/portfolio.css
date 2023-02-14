@@ -168,6 +168,9 @@ img {
   font-family: var(--default-font-family);
     font-size: 24px;
 }
+.navbar {
+    background-color: var(--secondary-color) !important;
+}
 .nav-link {
     font-family: var(--default-font-family);
     font-size: 18px;
