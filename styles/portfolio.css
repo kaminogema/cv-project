@@ -123,6 +123,7 @@ img {
     text-align: center;
     background-color: var(--secondary-color);
     padding: 30px;
+    border-radius: 10px;
 }
 .about-section-content-v2 li {
     font-size: 18px;
@@ -212,7 +213,4 @@ footer .contact-box p {
 }
 .btn {
     margin-top: 13px;
-}
-.info {
-    border-radius: 10px;
 }
